@@ -98,3 +98,25 @@
         - Patients with AD/Dementia and 1, 2, 3, or more infections.
 - For the **enrichment analysis**:
     - Evaluate whether having a disease increases the likelihood of also having Alzheimer's disease or Dementia.
+# Contributors
+
+- **Writer**: Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:evaggelosnizamis@gmail.com))
+- **Helper**: Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
+- **Principal Investigator (PI)**: Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
+
+# License
+
+Copyright (c) 2024 Evangelos Nizamis, Eli Kaufman, Paul Valdmanis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+If you use this software in your work or research, we kindly request that you acknowledge its use by citing the following reference:  
+[https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025](https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025).
+
+Additionally, please inform us via email so we can add your citation:
+- Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:evaggelosnizamis@gmail.com,enizamis@uw.edu))
+- Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
+- Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
