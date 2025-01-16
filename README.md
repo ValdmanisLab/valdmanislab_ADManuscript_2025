@@ -98,11 +98,7 @@
         - Patients with AD/Dementia and 1, 2, 3, or more infections.
 - For the **enrichment analysis**:
     - Evaluate whether having a disease increases the likelihood of also having Alzheimer's disease or Dementia.
-# Contributors
 
-- **Writer**: Evangelos Nizamis ([evaggelosnizamis@gmail.com](evaggelosnizamis@gmail.com)),([enizamis@uw.edu](mailto:enizamis@uw.edu))
-- **Helper**: Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
-- **Principal Investigator (PI)**: Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
 
 # License
 
@@ -115,8 +111,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 If you use this software in your work or research, we kindly request that you acknowledge its use by citing the following reference:  
 [https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025](https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025).
-
-Additionally, please inform us via email so we can add your citation:
-- Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:evaggelosnizamis@gmail.com)),([enizamis@uw.edu](mailto:enizamis@uw.edu))
-- Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
-- Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
