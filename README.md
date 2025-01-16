@@ -100,7 +100,7 @@
     - Evaluate whether having a disease increases the likelihood of also having Alzheimer's disease or Dementia.
 # Contributors
 
-- **Writer**: Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:enizamis@uw.edu))
+- **Writer**: Evangelos Nizamis ([evaggelosnizamis@gmail.com](evaggelosnizamis@gmail.com)),([enizamis@uw.edu](mailto:enizamis@uw.edu))
 - **Helper**: Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
 - **Principal Investigator (PI)**: Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
 
@@ -117,6 +117,6 @@ If you use this software in your work or research, we kindly request that you ac
 [https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025](https://github.com/ValdmanisLab/valdmanislab_ADManuscript_2025).
 
 Additionally, please inform us via email so we can add your citation:
-- Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:enizamis@uw.edu))
+- Evangelos Nizamis ([evaggelosnizamis@gmail.com](mailto:evaggelosnizamis@gmail.com)),([enizamis@uw.edu](mailto:enizamis@uw.edu))
 - Eli Kaufman ([kaufmane@uw.edu](mailto:kaufmane@uw.edu))
 - Paul Valdmanis ([paulnv@uw.edu](mailto:paulnv@uw.edu))
